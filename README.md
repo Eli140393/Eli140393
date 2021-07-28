@@ -1,7 +1,7 @@
 Eli140393/README.md
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli140393&show_icons=true&theme=radical)
+https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
 
 
  Hello world <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> , I'm Eliezer 
