@@ -7,7 +7,7 @@ Eli140393/README.md
   Hello world   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> ,   I'm Eliezer <br/>
 Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba  <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&theme=escuro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
