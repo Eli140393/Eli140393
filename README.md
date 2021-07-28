@@ -9,7 +9,7 @@ Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba
 
 🚀 Minhas Skills
 
-![image]({https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black})
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
  Typescript Nodejs HTML5 CSS Bootstrap React Angular MySQL PostegreSQL MongoDB
 
 Sobre mim
