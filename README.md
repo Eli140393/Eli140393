@@ -1,8 +1,5 @@
-Eli140393/README.md
-
 
  <img align="right" width="400" height="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-
 
   Hello world,  I'm Eliezer <br/>
   Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba  <br/><br/>
