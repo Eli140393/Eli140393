@@ -1,13 +1,14 @@
 Eli140393/README.md
 
 
- <img align="right" width="400" height="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+ <img align="right" width="400" height="400" src="">
 
 
  Hello world <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> , I'm Eliezer 
 Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba 
 
-🚀 Skills: HTML5, CSS3, ASP.NET, C#, C++, C, MS SQL Server, and MySQL.
+🚀 Minhas Skills
+c Javascript Typescript Nodejs HTML5 CSS Bootstrap React Angular MySQL PostegreSQL MongoDB
 
 Sobre mim
 💻 Trabalhando com C#, ASP.NET, HTML5 e CSS3
