@@ -4,11 +4,8 @@ Eli140393/README.md
  <img align="right" width="400" height="400" src="">
 
 
-  Hello world   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> ,   I'm Eliezer <br/>
-Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba  <br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
+  Hello world,  I'm Eliezer <br/>
+  Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba  <br/><br/>
 
 
 
@@ -26,6 +23,9 @@ Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba  <br/><br/
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" style="max-width:100%;"></a></code></p> 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQLServer" style="max-width:100%;"></a></code></p>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 Sobre mim <br/><br/>
