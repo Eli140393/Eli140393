@@ -1,16 +1,15 @@
-### Hi there 👋
+Eli140393/README.md
 
-<!--
-**Eli140393/Eli140393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli140393&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif Hello world https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif, I'm Eliezer 
+Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba 
+
+🚀 Skills: HTML5, CSS3, ASP.NET, C#, C++, C, MS SQL Server, and MySQL.
+
+
+Sobre mim
+💻 Trabalhando com C#, ASP.NET, HTML5 e CSS3
+📚 Estudando a Node, React e React Native
+💜 Sempre tentando ajudar outros devs da melhor forma possível
