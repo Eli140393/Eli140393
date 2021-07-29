@@ -1,8 +1,8 @@
 
  <img align="right" width="400" height="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-  Hello world,  I'm Eliezer <br/>
-  Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba  <br/><br/>
+  <h2>Hello world,  I'm Eliezer <h2>  <br/>
+  <h2> Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba <h2>  <br/><br/>
 
 
 
