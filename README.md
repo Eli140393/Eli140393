@@ -18,7 +18,7 @@
 
 <br/><br/>
 
- <div class="langs">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) <div/> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97;align=right)](https://github.com/anuraghazra/github-readme-stats) 
 
   
 <br/>
