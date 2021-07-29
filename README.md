@@ -20,9 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97;align="right")](https://github.com/anuraghazra/github-readme-stats)
 
-<br/><br/>
-<h3> Sobre mim <h3> <br/><br/>
-<h3>💻 Trabalhando com C#, ASP.NET, HTML5 e CSS3 <h3/><br/><br/>
-<h3>📚 Estudando a Node, React e React Native <h3> <br/><br/>
+<br/>
+<h3> Sobre mim <h3>
+<h3>💻 Trabalhando com C#, ASP.NET, HTML5 e CSS3 <h3/>
+<h3>📚 Estudando a Node, React e React Native <h3>
 <h3>💜 Sempre tentando ajudar outros devs da melhor forma possível<h3>
 
