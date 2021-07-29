@@ -1,5 +1,5 @@
 
- <img align="right" width="400" height="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+ <img align="right" width="400" height="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
   <h2> Hello world,  I'm Eliezer, <br/>
  Graduado em Análise e Desenvolvimento de Sistemas  na UNIP- Sorocaba<h2> 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97;align=right)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli140393&layout=compact&amp;theme=radical&amp;bg_color=30,0d0d0d,191919&amp;title_color=fff&amp;text_color=fff&amp;icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) 
 
   
 <br/>
